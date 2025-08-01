@@ -1,3 +1,5 @@
+## Live Preview :- https://chat-app-ub42.onrender.com
+
 # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
